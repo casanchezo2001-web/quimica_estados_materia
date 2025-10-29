@@ -1,0 +1,9 @@
+# SO / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Node / toolings (por si luego agregas algo)
+node_modules/
+dist/
+build/
